@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Süleyman YILDIRIM, I am a software developer.
+My name is Süleyman YILDIRIM, I am a Computer Engineer.
 
 ### 📫 How to reach me
 
