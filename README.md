@@ -5,7 +5,7 @@ My name is Süleyman YILDIRIM, I am a Computer Engineer.
 ### 📫 How to reach me
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/süleyman-yıldırım-b23242132/)
-[![Blog Badge](https://img.shields.io/badge/-Blog-orange)](https://suleymanyildirim.com/)
+[![Blog Badge](https://img.shields.io/badge/medium-green?style=for-the-badge&logo=medium)](https://suleymanyildirim.com/)
 
 
 
